@@ -1,0 +1,49 @@
+/p
+clear
+/f
+Narrator
+You decide to keep following Omniscient Dog?.
+It is a waste to help those whose positionality has no use in this world.
+Still, you wonder if you could’ve helped foster the lives of those maggots.
+Stepping off the bridge, you enter a tunneled path made out of the canopy of trees.
+/p
+Omniscient Dog?
+/f
+Omniscient Dog?
+Forget about that damn fish.
+Its existence means nothing.
+Thinking about it wastes the precious space of your neurons.
+/f
+Narrator
+The trail is littered with a swarm of moths the size of birds.
+They flutter around, knocking into each other, ramming into your face.
+The swarm’s volume increases the further down the path you get.
+You come upon a large opening in the path where the canopy does not reach.
+/p
+chain
+In the center is a person tethered by chains to a pole.
+/s
+chain
+They sprint as fast as they can away from the pole, only to be met with a sudden halt.
+Still, the person gets back up, and they sprint to the opposite side to try again.
+/f
+Omniscient Dog?
+Sisyphean, isn’t it? Such futile effort makes me laugh.
+I feel sad for them. Still, there is something to be admired here.
+The eternal struggle of mankind.
+There’s no end in sight, yet they seem to keep going like there’s some kind of purpose they’re living for, like there’s a chance.
+Even then, the purpose they believe they are living for is not the same as their true purpose of living.
+They are experiencing life as it should be, whether they know it or not.
+/f
+Narrator
+The chained person sprints again, this time towards you.
+They stare at you with a wry smile. From their mouth they regurgitate a bronze key.
+They clasp your hands around the key and turn around.
+There is a keyhole on the back of the collar that connects them to the chain.
+Guess they could’ve freed themselves the entire time.
+Nevertheless, they beckon you to open the lock for them.
+/c
+1. Unlock the collar. Let them live free and choose their own life
+2. Ignore their pleas. They are already living their true purpose
+end
+end

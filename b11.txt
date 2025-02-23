@@ -1,0 +1,45 @@
+/p
+clear
+/f
+Narrator
+You decide to eat the songbird.
+Such beauty should not be wasted.
+Napkin draped over your head, you grab the songbird by its head and eat it feet-first.
+You swallow the songbird, entrails and all, spitting out the large bones.
+It is delectable; the best meal you’ve ever had.
+Your mouth is filled with a joyous spirit.
+/s
+ocean
+/f
+Narrator
+Omniscient Dog? pulls the napkin from your head.
+You find that you no longer sit in a dank basement, but now stand on the edge of a shore.
+Gentle waves rush around your legs and slyly draw back into the ocean.
+A full moon and twinkling stars dot the rosy magenta sky.
+/p
+ocean
+/f
+Omniscient Dog?
+This is your beauty, huh?
+I see. Quite the mind, you have.
+Though I can’t say you chose the right option.
+I have a hunch the old man wanted you to drink his blood and piss.
+But maybe it was worth it to see your true beauty.
+I guess I wouldn’t know.
+Up until now, you were so adamant to stay on the path of decorum, but desire strayed you from its path.
+Was it worth it, for this moment of bliss?
+Nevertheless, you still have a chance to find that path again, if it’s what you so choose to do.
+/f
+Narrator
+The moonlight glistens off the dilapidating waves.
+You notice a pink dancing shimmer in the water.
+More appear, and they begin to form a rotating circle.
+You realize the shimmers belong to glowing dolphins elegantly rippling through the ocean water.
+They dance with each other in synchronized motion and raise their tails to the air.
+Behind you, you hear a growl.
+You turn around and see the bear cub from the cellar. It seems it wants you to follow it.
+/c
+1. Walk into the ocean. Let the waves consume you
+2. Follow the bear. There are repercussions to be paid
+end
+end

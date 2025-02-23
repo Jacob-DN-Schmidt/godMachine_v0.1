@@ -1,0 +1,40 @@
+You decide to—
+/p
+Omniscient Dog?
+/f
+Omniscient Dog?
+Enough. I’ve seen enough.
+Your foolish antics bore me.
+It’s time I level with you, the worthless layman, in possession of nothing but futile hopes and dreams.
+My true name is Deus E. Machina, God from The Machine. 
+/f
+Deus E. Machina
+Layman, the time has come for your judgment.
+I have been observing you from the time you first murdered.
+My job is to interject when mankind has strayed from its rightful path of decorum.
+You, my dear layman, contain a spirit of true free will.
+It is true, all laymen possess free will, but none have confronted it in such a manner as you have.
+The other laymen think they possess true free will, but really their life, their actions, have all been taught and formed by the environment they live in.
+When you first murdered, there were doubts in your body, but you did it anyways to get rid of the turmoil that resides inside of you.
+Yet, the turmoil is still there.
+What you have tried to run away from was running with you the entire time.
+Dear layman, it is time you stop running and accept your fate.
+A hectic and confusing journey you’ve been on.
+All of your decisions—your intentions—they have led you to here.
+You lie here at the final crossroads of fate.
+Where will you go?
+How will you live?
+Can you survive?
+That is determined by which direction you take between the crossroads of your life.
+I hope you’ve made the right decisions because you can’t turn back on them, no matter how hard you try.
+My wish is to take you with me, become my pawn.
+But alas, no celestial being has that omnipotent power to fully change direction, not even The Cosmocrat itself.
+This final judgment will determine your destiny.
+I leave with you a final question, dear layman.
+Answer carefully.
+Why do you live?
+/c
+1. I live simply because I exist in this world. No one knows the right way to live in this world, so I forge my own path
+2. I live because there is a greater purpose for my life. My goals and aspirations are all to benefit that purpose
+endh
+endh

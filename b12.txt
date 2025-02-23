@@ -1,0 +1,52 @@
+/p
+clear
+/f
+Narrator
+You decide to drink the concoction of bodily fluids.
+It is pure, as God intended.
+Napkin draped over your head, you bring the red solo cup to your lips and sip.
+It is bitter and salty, with an iron aftertaste and a thick consistency.
+You struggle to swallow it down—not the best thing you’ve ever tasted.
+Still, it is pure, the natural spring of man, and that’s all that matters.
+/s
+drop
+Omniscient Dog? pulls the napkin from your head.
+You find that you no longer sit in a dank basement, but now stand on a pulpous mound of some sort.
+You can’t see the bottom.
+Every time you shift weight, you hear a squish beneath your foot.
+/f
+Omniscient Dog?
+So, you just drank some blood and piss.
+How do you feel? I can tell you confidently you made the right choice.
+But whether or not that man was holy or just a senile geriatric is up to you to decide.
+You’ve traveled the path of decorum well so far.
+I want to show you something.
+You know, for old time’s sake.
+/f
+Narrator
+Omniscient Dog? lights a torch that illuminates the space around you.
+/p
+sea
+This is not a mound, but a mountain.
+At the foot of the mountain is a sea of blood that stretches beyond the mind’s limit.
+And suddenly, it dawns on you.
+The mush beneath your feet is a decaying corpse.
+In fact, the entire mountain is made of bodies once filled with life.
+/f
+Omniscient Dog?
+Grandiosity.
+Monumentality.
+You will never realize the cost unless you can fully visualize it. Pretty fucked up, right?
+It’s impossible to fathom the countless of lost lives here, but the magnificence here is the period at the end of the sentence.
+No matter the fate of this world, whether it submits to control or divulges into madness, the cost remains the same.
+/s
+whisper
+/f
+Narrator
+The mountain of corpses whisper your name in continuous fashion. They want you to join them.
+Above you is a rope barely in reach that leads to some sort of light.
+/c
+1. Join the corpses. Become part of the blood sea
+2. Climb the rope into the light. There is duty to be fulfilled
+end
+end

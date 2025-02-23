@@ -1,0 +1,75 @@
+/p
+clear
+/f
+Narrator
+You decide to break up the fight.
+You have the willpower to change the outcome.
+In an attempt to reason with the fetuses, they turn their malice towards you.
+They latch onto you with their gums, releasing a blood curdling scream.
+That is what you last remember.
+/s
+heartmonitor
+/p
+Omniscient Dog?
+/f
+Omniscient Dog?
+You’re awake already? That was quite the flamboyant scene.
+/p
+clear
+/f
+Narrator
+You are in a hospital room, strapped to a bed.
+Cloudy headed, you try to shift your body but can only muster a wimpy shiver.
+Someone else is in the room with you—the surgeon.
+Her body is bedecked with scrubs.
+She’s smiling a little too much as far as you’re concerned.
+In her hand is a scalpel.
+You look down at your body.
+/p
+Eccentric Surgeon1
+Is that… your large intestine?
+Your diaphragm is wide open, held by the strength of the surgeon’s retractor.
+You see your entrails pulse with every heartbeat.
+They are discombobulated, stuck in a confused frenzy to try and fix the system.
+The surgeon lets out a coy laugh.
+/f
+Eccentric Surgeon
+Ah, I’m so sorry! The sedatives must’ve worn off already.
+I tell my nurses all the time, give my patients a stronger dose!
+Get them real high; make the trip to the ER worth it!
+But they never listen.
+Oh, but your insides—they’re so beautiful!
+I just want to…
+/f
+Narrator
+The surgeon’s eyes dilate, fascinated by your beautiful insides.
+She excitedly shrieks and digs into your organs.
+Like a child in a sandbox, she scoops them up and drops them.
+Bringing them up to her face, she breathes in and moans.
+Clearly your entrails must be of good quality.
+/f
+Omniscient Dog?
+This happenstance is all due to your free will.
+I thought I told you to observe.
+A good dog always listens to its master.
+If there’s one thing to always live by, it’s loyalty.
+But I see you fail at that as well.
+To truly have autonomy is to have control over your earthly desires.
+Disappointing. Truly, disappointing.
+You are beyond redemption now.
+/f
+Eccentric Surgeon
+Why the long face, my dear patient?
+That makes me sad.
+Don’t worry, things can get better!
+I know! I got some clown therapy on speed dial.
+But still… it would feel like such a waste.
+I suppose there is another option.
+Yes, you would be perfect for it!
+How would you like to join an experiment?
+Sacrifice your selfishness for a bigger, greater cause!
+/c
+1. Ask for clown therapy
+2. Join the experiment
+a11
+a12

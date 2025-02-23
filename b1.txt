@@ -1,0 +1,66 @@
+/p
+clear
+/f
+Narrator
+You decide to cut off your genitalia.
+One must atone for their sins.
+The fleshy old man takes out a rusty filer and hands it to you.
+You scrub vigorously at your genitalia.
+Bits of flesh flake off and splat on the ground.
+The bear cub hops off the old man’s lap and licks up the scraps.
+/p
+Fleshy Old Man
+/f
+Fleshy Old Man
+Yes, yes! ‘Tis good! Ahahahaha. Good, good. Very good, indeed.
+Ye have atoned for yer sins. Sins be gone!
+Ye now be pure of heart. Innocent like a naked babe fresh out the womb.
+Now we shall commence the final act of purification and seal the deal!
+/f
+Narrator
+The fleshy old man brings out a folded table and sets it in front of you.
+He enters back into the darkness and reemerges with a cloth draped over a birdcage.
+/s
+bird
+He slams the birdcage on the table and pulls off the cloth like a magician revealing some dark secret.
+Inside the birdcage is a plump songbird gorged on millet seed.
+It flails around as it tries to fly, but alas its mass is too great to carry.
+From underneath the table, the fleshy old man grabs a container of brandy.
+His trembling frail fingers open up the birdcage and reach for the plump songbird.
+He strokes the songbird’s head and shushes it.
+He plunges it into the brandy as it splashes with its wings.
+Quickly, the lid is sealed on top of the container.
+For a few moments, the container shuffles around on the table, until it comes to a standstill.
+The fleshy old man opens the lid and scoops up the songbird, its head and wings falling limp to the side.
+He reaches underneath the table for yet another object: a portable grill.
+He gently rests the songbird on the grill and fires it up.
+While waiting for the songbird to roast, he grabs a red solo cup to prepare a drink for you.
+/s
+piss
+He holds the cup at the tip of his penis and urinates inside.
+The stream of urine stops before it reaches the lip of the cup.
+He hovers his hand over the cup and, without a flinch, files at his palm until it bleeds.
+Blood seeps down his palm and drips into the cup, steam rising from every droplet making contact.
+The fleshy old man swirls the concoction and sets it beside you.
+The songbird, now charred yet tender, is placed onto a paper plate in front of you.
+Before it is served, every feather is plucked one-by-one from its pores.
+/p
+meal
+/f
+Fleshy Old Man
+I have prepared for ye a meal of kings.
+But I advise ye, be careful on which item ye choose to consume.
+One beholds the beauty in the eye of man, the other a natural spring of man himself.
+Choose wisely, for the wrong choice means yer purification was but for naught! 
+/f
+Narrator
+The fleshy old man drapes a cloth napkin over your head.
+/f
+Fleshy Old Man
+‘Tis a private act between man and The Cosmocrat.
+None must bear witness but the Supreme Being.
+/c
+1. Eat the delicate songbird
+2. Drink the concoction of bodily fluids
+b11
+b12

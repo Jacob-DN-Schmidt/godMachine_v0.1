@@ -1,0 +1,58 @@
+/p
+clear
+/f
+Narrator
+What will it be?
+The separation of mind and body.
+Of logic and emotion.
+Godfound and Godless.
+/p
+Omniscient Dog?
+/f
+Omniscient Dog?
+You killed them.
+You killed them, didn’t you.
+Ruthless cold-blooded murder.
+Pretty badass.
+But you had to do it, didn’t you?
+The end justifies the means, and all that.
+Don’t worry. I don’t blame you. Really, I don’t.
+Except, you loved them.
+It was hard to say goodbye, wasn’t it.
+Or maybe this was your out.
+You only convinced yourself to love them because it kept you grounded to reality.
+A reality that wasn’t yours.
+/p
+m1
+/f
+Narrator
+Omniscient Dog? places its paw on your shoulder.
+It breathes down your neck and whispers in your ear.
+/f
+Omniscient Dog?
+Take a good look at yourself.
+What is your reality? 
+What is it you truly desire?
+…
+You’re lying to yourself.
+Look closer, deep into the void.
+Let it consume you.Let the darkness wrap around your fingers.
+Allow it to penetrate every orifice of your body.
+/s
+heartbeat
+Feel as it fills the arteries of your heart.
+Don’t worry—I won’t let you die. Not yet, at least.
+Now look again. What do you see?
+/p
+m2
+Now this, this is you.
+Uniquely and truly you.
+You wear the facade well, you know, for being such a dirty sinner.
+A dirty, fucking sinner.
+But that’s okay, I don’t judge.
+Who has the power to truly judge, anyways?
+/c
+1. Wash the sins away
+2. Confess
+a
+b

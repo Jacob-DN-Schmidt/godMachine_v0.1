@@ -1,0 +1,59 @@
+/p
+clear
+/f
+Narrator
+You decide to help the fish carcass out.
+Life or no life, this is a cry for help, and if you have the means to provide it, then dammit, you will.
+You desperately pull against the leash.
+The prongs insert into your neck, but the adrenaline masks the pain.
+You pull and pull, until the leash falls to the ground.
+Running, you make your way over to the carcass.
+/p
+Koi Fish Carcass
+/f
+Koi Fish Carcass
+That’s it lad! Now just yoink that fat one. You can’t miss it!
+/f
+Narrator
+You grab the queen maggot from the fish carcass. It squirms around in your hand.
+A sigh of relief runs across the fish’s face.
+/f
+Koi Fish Carcass
+Come now! Eat the damn thing already!
+/f
+Narrator
+Hesitantly, you bring the squirmy grub to your mouth.
+You can do this; it’s all for welfare.
+You drop the maggot into your mouth.
+It wiggles around in your mouth, fighting for its life.
+You crunch down and the maggot pops in your mouth.
+You swallow the guts, feeling every lump slide down your throat.
+Exhale. You have finished the job.
+/f
+Koi Fish Carcass
+Ahahaha, what a stupid arsehole!
+I can’t believe this dumb bloke actually ate that thing.
+Did you really think you were helping some poor old fish?
+I’m a dead fucking fish!
+You suck the bellend of every cock by everyone who asks you to?
+Hey fellas, take a look at Mother Theresa over here doing God’s good will!
+Ahahahaha. God damn that IS too funny!
+/f
+Narrator
+It seems you have been tricked into eating a maggot.
+In your pursuit to help someone else you’ve been played for a fool.
+But still, sometimes this is the consequence of helping others, right?
+Something doesn’t rest well in your stomach.
+It grumbles and rumbles; an escalating feeling of despair rising within.
+You feel the rush of warm acidic vomit build up inside you.
+/s
+vomit
+Vomit spews from your mouth onto the carcass.
+/f
+Koi Fish Carcass
+Oi, what the fuck do you think you’re doing? Get this shit off of me!
+/c
+1. Throw the carcass off the side of the bridge. Fuck that fish. If it doesn’t want help, then help it will not receive
+2. Mind your own business. It’s not worth wasting any more energy on such a lout
+end
+end

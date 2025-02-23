@@ -1,0 +1,74 @@
+/p
+clear
+/f
+Narrator
+You decide to join the experiment.
+Your life is better served as a cog in a machine of greater cause for humanity.
+The surgeon, ecstatic, squeals and jumps in joy.
+She pushes your bed out of the room, singing and skipping while pushing you down the hallway.
+A freight elevator opens up, and the two of you head in.
+/p
+Eccentric Surgeon2
+/f
+Eccentric Surgeon
+Oh my god, I am so jealous!
+Seriously, you won’t regret this.
+Such a beautiful sacrifice you’re making.
+Just so you know, you’ve entered a NDA.
+If you tell anyone, we kill you.
+Ah but I suppose that won’t matter in a few minutes.
+Tehehe, I’m so excited for you!
+/f
+Narrator
+The elevator opens its doors.
+The surgeon guides your bed down a dark hallway, maneuvering around debris of defunct machines.
+/s
+bang
+To the sides of you are locked cells that seem to infinitely stretch down the hallway.
+/s
+scream
+A symphony of cries for help echo through the hallway.
+As you go further down the corridor, a foul stench captures your attention.
+A mix of rot and feces—you gag on impulse.
+At the end of the corridor is a large steel door.
+The eccentric surgeon scans her palm, and the door slowly cracks open.
+She pushes you inside and closes the door.
+/s
+breathe
+/f
+Eccentric Surgeon
+Are you ready, my lovely guinea pig? I sure hope you are!
+/f
+Narrator
+The lights turn on.
+/p
+Cleopatra
+Before you is a gargantuan fleshy creature made of an array of human body parts.
+Every segment of its body has a mind of its own.
+Its body pulls in multiple directions, confused as to what it’s supposed to do.
+A couple of its arms try reaching in your direction.
+/f
+Eccentric Surgeon
+Ahahaha, isn’t she beautiful??
+I call her Cleopatra.
+We’ve spent decades developing this project, and finally, FINALLY, we are getting close!
+For so long have we been researching the limits of the human body.
+We’ve studied them through excruciating pain.
+Spinning them in a centrifuge, forcing them to wear chemical facemasks, crushing them with large objects, testing weapons on them, just to name a few.
+The survivors were cut open while they were still alive so we could study how their insides work, what was making them win the game of Darwinism.
+Our discovery was beautiful, truly beautiful. It makes me cry.
+You see, I’m convinced that there’s something greater at play here; a perplexing energy that surges through these unscatheable organs.
+We can’t quite explain the phenomenon, and there is much disagreement among us, some saying we are straying too far from science.
+Still, we can detect the patterns, and you, my dear sweet guinea pig, match them perfectly.
+You will be a vital organ to this beautiful creature.
+Aren’t you happy? I truly envy you.
+My duty is here—I must perform from the outside.
+But you, well you get to become part of something grand, something that will change the world, and you don’t have to do a single thing.
+/f
+Cleopatra
+Please… kill… us… please… end… us… They… want… to… des… troy… every… thing…
+/c
+1. Try to kill the creature. End its suffering
+2. Become part of the creature. You can be a part of a greater cause
+end
+end

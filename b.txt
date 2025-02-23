@@ -1,0 +1,52 @@
+/p
+clear
+/f
+Narrator
+You decide to confess.
+Maybe what you did was wrong.
+Omniscient Dog? nods, but it is unclear whether or not it is in approval.
+It takes you downstairs.
+You find yourself in a dank concrete basement.
+1000-year old mold wafts in the air.
+The only source of light is a swaying lightbulb emanating a dim orange hue.
+In the peripheral of the light is a wooden stool with a pair of lanky legs in front of it.
+/s
+chair
+It scooches into the light and reveals a fleshy naked old man.
+/p
+Fleshy Old Man
+On his lap he strokes a scraggly bear cub, left ear and eye missing.
+He beckons you to come closer and pats his hand on a dilapidated box with rusty nails sticking out.
+/f
+Omniscient Dog?
+Go ahead, sit down. It’s just an old man, pure skin and bones. He can’t hurt you.
+Besides, this is your decision.
+/f
+Narrator
+You sit down, careful not to be impaled by one of the nails. The box creaks at the pressure.
+/s
+breathe
+/f
+Fleshy Old Man
+Hail there, sinner. I can smell the sin right off ye.
+Hehehe, ripe sin. Sin, sin, sin.
+So, have ye come to confess? Ain’t no entrance to the Elysium if ye don’t atone!
+…
+I shall take that as a “yes”.
+Spare me the details! I know what you youngsters do these days.
+Ye been watching porn, haven’t you?
+Aha! The look on yer face tells me I’m right!
+Dicks and tits, that’s all ye youngsters think about. Disgusting, impure thoughts.
+I tell ye, ye be one step away from dropping to the deepest depths of Pandemonium.
+Fear not, young sinner, for I have a solution for ye.
+Atone and repent, and the entrance will remain open for ye.
+All ye have to do is cut off yer genitalia.
+And pay yer indulgence of just $777,777,777.77. I discounted it for ye.
+/f
+Omniscient Dog?
+Jesus Christ… good luck with this one.
+/c
+1. Tell the fleshy old man to fuck off
+2. Atone. Cut off yer genitalia
+b2
+b1

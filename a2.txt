@@ -1,0 +1,54 @@
+/p
+clear
+/f
+Narrator
+You decide to observe.
+It is wise to assess a situation before acting.
+The fetuses bite at each other, ripping each other's gummy limbs off.
+The single fetus tears off one of the conjoined fetuses’ heads.
+In retaliation, the remaining head of the conjoined fetus tears off the single fetus’ head.
+Having just lost its lifelong twin, the remaining half of the conjoined fetus dies of grief.
+/p
+Omniscient Dog?
+/f
+Omniscient Dog?
+Hmmm, that was kinda fucked up. Welp, what did you learn from today’s lesson?
+I’ll give you a minute to think… Done?
+Today’s lesson is that you won’t always get a lesson just by observing.
+Actually, I’m kind of surprised that you didn’t try to break up the fight.
+I think most people’s first reaction is to intervene when they see two fetuses going at each other, but that makes you unique.
+In a way, I respect it.
+Who knows, maybe if you tried to intervene you would’ve died.
+Anyhow, let’s keep going.
+/f
+Narrator
+Omniscient Dog? puts the prong collar back around your neck.
+It leads you down another path of the park.
+The two of you cross a wooden bridge over a wide river.
+/p
+Koi Fish Carcass
+At the bridge’s apex, you stumble upon a rotting carcass of a koi fish.
+It has maggots wrangling about it, feasting on its decomposing flesh.
+Flies buzz around in a frantic dance.
+/f
+Koi Fish Carcass
+Oi, hello there, good chap! 
+Splendid day today, innit? Though it is a tad bit windy.
+Say, see that big bulbous grub on my back? Reckon you can pull it off me?
+She is the queen of these buggers, but by golly is she sucking me dry.
+You need to eat it for me, otherwise she will simply reproduce.
+I don’t have enough flesh to satiate all of them!
+/f
+Omniscient Dog?
+It’s bad to toy with the dead.
+Come on, you slow fuck, let’s keep moving.
+There’s no time for this.
+/f
+Narrator
+Omniscient Dog? tugs on the leash, prongs nipping you on the neck.
+But it seems like this fish really needs some help.
+/c
+1. Help the fish carcass out.
+2. Keep following Omniscient Dog?.
+a21
+a22

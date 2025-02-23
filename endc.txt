@@ -1,0 +1,35 @@
+/p
+clear
+/f
+Narrator
+You are transported to ELYSIUM.
+Here is the land where purpose is everything.
+It is a godfound land.
+The ruler is the dogma of the gods themselves.
+The Machine reigns supreme. 
+In a white space is a floating cube with a grid-like texture.
+Upon closer inspection, you realize that it is made up of cubicles upon cubicles upon cubicles…
+Inside each cubicle is a human performing their respective office work.
+They work in a rhythmic fashion, never stepping off beat.
+Your presence isn’t even noticed.
+/f
+Deus E. Machina
+How happy am I that you will join me for the rest of your life.
+Here, wear this. You’re always representing the company, so look sharp! 
+Anyhow, I’d love to stay and chat, but time is money as they say, and there’s work to be done.
+The Machine will notify you of your next task.
+And remember, “Life is not complete without hard work!”
+/p
+bgcend
+/f
+Narrator
+You put on your business casual costume.
+Sitting at the desk, you log onto your personal computer.
+A notification appears in the right hand corner.
+It reads: “Enter data from last month’s transaction report into spreadsheet and send to management”.
+A sudden determination flows through you.
+You want to be a productive member of society.
+If you please the higher ups, maybe they’ll let you go one step higher on Jacob’s ladder.
+So you bottle up your worries and throw them to the side; they can be dealt with later.
+After all, life is not complete without hard work.
+/end

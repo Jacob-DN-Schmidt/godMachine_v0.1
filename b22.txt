@@ -1,0 +1,57 @@
+/p
+clear
+/f
+Narrator
+You decide to interrogate the child.
+Where is the respect for seniority these days?
+You grab her by the shoulders and shake, demanding to know how to get out.
+You feel some resistance and look down.
+The ball of blue light shows its face to you, and it seems pissed.
+/p
+girl
+/f
+Will o’ Wisp
+Buddy, sincerely, eat shit.
+I will tear you a new asshole by force.
+What you just did was unsalvageable.
+Laying your grimy fingers on her, you fucking sleazebag scum.
+Lucky for you, today is your death day.
+Hope your life was worth it.
+/f
+Narrator
+The child tries to hold the Will o’ Wisp back, but it refuses.
+Its luminescence grows brighter, trails of vapor rising from its back.
+The child falls to the floor, hopeless.
+/f
+Will o’ Wisp
+Figures she would want to save you.
+I want to listen, but you hurt her, you spineless bastard.
+If it was me, fine, maybe I could forgive you.
+However, I can’t, I simply can’t.
+You humans, so foolish and so selfish.
+Always out for yourselves.
+No regard for your fellow neighbor.
+I can’t stand it anymore.
+This child, she taught me that there is some good in the world, that this world deserves redemption.
+But I can no longer find it.
+Each and every one of your souls, defiled and perverted.
+It sickens me. Truly sickens me.
+I have never met such a disgusting creature as mankind itself.
+Farewell, and let these words travel with you in your next life.
+/p
+clear
+/f
+Narrator
+/s
+wind
+Will o’ Wisp expands, absorbing the space around it.
+An intense draft pulls you towards the blooming ball of energy.
+You feel the increasing heat as you draw closer.
+Your skin bubbles and pops, exposing you to your very bone.
+The light makes contact with you, and you are absorbed into its mass.
+Nothing but light.
+/c
+1. Curse God. What a terrible life you’ve been given
+2. Pray to God. Maybe you can be saved
+end
+end

@@ -1,0 +1,57 @@
+/p
+clear
+/f
+Narrator
+You decide to get some clown therapy.
+You need to take care of yourself before you can worry about others.
+The surgeon frowns—seems like your good organs are going to waste.
+She calls the clown therapist on speed dial.
+A few minutes later, a middle aged man walks through the door.
+/p
+Pizza Puppeteer
+He is naked in pure flesh, save for a slice of pizza covering his gonads.
+From each of his digits a pizza slice dangles from a thread.
+/s
+pizza
+/f
+Pizza Puppeteer
+Anybody want a pizza slice? Anybody want some pizza, ah!
+/f
+Narrator
+The strange pizza man walks to your bedside.
+Like multiple pendulums, he sways the pizza slices up and down in front of your face.
+Losing focus, your eyes struggle to keep up with the slices.
+/f
+Pizza Puppeteer
+Anybody want a pizza slice? Anybody want some pizza, ah! 
+/f
+Narrator
+You fixate on a droplet of grease slowly making its way down the slice, elegantly dropping on your forehead.
+Yummy, warm, greasy slices.
+Fresh melted cheese wafting in the air.
+/f
+Pizza Puppeteer
+Anybody want a pizza slice? 
+I know you want some pizza, ah!
+Come, I implore you, take a pizza slice!
+Forget about the present—let it all collapse.
+Just think about the juicy slice.
+Think about the cheese cooling down in your mouth.
+A gush of grease exploding in your mouth.
+That gooey slice sliding down your throat.
+Forget about everything else.
+Life’s a bitch and then you die.
+If we’re all gonna die anyways, why not just enjoy a slice of pizza? 
+Just think about the pizza.
+Live in the pizza.
+Be the pizza.
+/f
+Narrator
+The Pizza Puppeteer dangles the pizza over your open mouth.
+Your mouth waters.
+There is a strong urge in you to eat the pizza.
+/c
+1. Eat the pizza slice. Life’s too short
+2. Resist the urge to consume pizza. The body is a temple
+end
+end

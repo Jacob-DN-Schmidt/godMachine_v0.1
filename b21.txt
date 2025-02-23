@@ -1,0 +1,53 @@
+/p
+clear
+/f
+Narrator
+You decide to nab the ball of blue light from the child’s arms.
+You need it more than she does, clearly, and maybe you can search for the way out.
+As you hold it in your arms, you hear a muffled sound coming from the ball.
+Startled, you drop the ball, and it slowly drifts back to the child.
+There’s a face on the ball, and it looks rather pissed.
+/p
+girl
+/f
+Will o’ Wisp
+Hey, buddy, do ya mind? What the hell, dude.
+You dare touch your hands on the great Will o’ Wisp?
+I tell ya, dipshit, you got some fucking nerve, I’ll give you that.
+Stealing a ball from a child—a child with no ability to see or speak, for that matter.
+Seriously, how do you sleep at night? I swear it, I’m gonna physically tear you a new ass—
+…
+Hmpf, fine. You may live, for now.
+She tells me you are just frightened and confused, being eaten by a bear and all.
+You’re lucky my allegiance is with her.
+She’s wise, this one. Hell, she’s the only reason why I’m still alive.
+If you woulda told me in my younger days I’d be answering to a child, I would’ve scoffed at you.
+I was a piece of shit back then.So if she sees something in you, I suppose you can’t be that bad.
+Still, I’m watching you.
+I, uh, you want to do what?
+No, come on, let’s just let them be.
+Seriously, you can’t just be nice to every person you encounter… 
+FINE, fine, fine. You’re right.
+Alright, human who steals from children, apparently you deserve some help.
+I strongly disagree, but ah, I digress.
+She says something dangerous resides inside you.
+A maelstrom of pandemonium.
+She recognizes the feeling, and you aren’t the only one it inhabits.
+It's something that slowly eats away at the soul, and if not treated, will destroy the soul’s very core.
+She wonders, what is it that stops you from getting rid of this demon?
+Are you scared to leave its comfort? Is it tied to you with a seemingly unbreakable chain?
+Whatever it is, it has led you here—afraid and confused.
+She wants you to know that, no matter how hard it’ll be, you have the power, the capability, to free yourself from what holds you back.
+Release the tempest in the bottle.
+/f
+Narrator
+You stand and stare at the child for a few moments.
+Was that really from the child, or is that Will o’ Wisp simply spewing nonsensical jargon?
+The maelstrom… maybe it led you to murder. Maybe this is your punishment.
+The child attempts to smile, flinching in pain from her stitches.
+She extends her arm to you. The helping hand. Maybe there is hope?
+/c
+1. Grab her hand. There must be light at the end of the tunnel
+2. Wallow in despair and let the stomach acid eat away at you. This is your punishment, afterall
+end
+end

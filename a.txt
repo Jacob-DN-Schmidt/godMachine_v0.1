@@ -1,0 +1,57 @@
+/p
+clear
+/f
+Narrator
+You decide to wash your sins away.
+The sins do not define you.
+Life is full of difficult decisions.
+You turn on the faucet and scrub at your blood-stained arms.
+/p
+Omniscient Dog?
+/f
+Omniscient Dog?
+I see. Interesting. 
+Come, let’s take a walk outside. It’s beautiful out.
+/f
+Narrator
+You join Omniscient Dog? outside for a walk.
+Before stepping out, it puts a collar around your neck and attaches it to a leash.
+You stretch your neck to the side and are met with a sharp pointed pain.
+It is a prong collar.
+The two of you step outside.
+Omniscient Dog? was right, it is gorgeous out.
+Although, the sky is absent, just a dark looming void, like it always is.
+Omniscient Dog? takes you to a park.
+Seems like it doesn’t have any intention of playing fetch with you.
+It could at least let you relieve yourself…
+Instead, it forces you to sit on the bench next to it.
+/f
+Omniscient Dog?
+Sometimes it’s okay to just sit back and watch others make an ass of themselves.
+Some people call it “people watching”.
+I call it “projecting your shortcomings onto others to make yourself feel better”.
+Seriously, try it.
+Observe.
+/p
+fetus
+/f
+Narrator
+You focus in on the view from the bench.
+In front of you, in the open field, are a couple of fresh fetuses.
+/s
+baby
+One of them is a conjoined fetus.
+The two, three?, of them flop around the field, umbilical cord flailing behind.
+They seem to be playing with a ball.
+But wait. Are they playing?
+Oh shit.
+They start screaming at each other, a confused scream, and clawing at each other with their stumpy little hands.
+The single fetus bites the conjoined fetus.
+The two heads of the conjoined fetus spew bloody vomit.
+It lands on the single fetus, scalding its skin.
+Omniscient Dog? unhooks the leash from your collar.
+/c
+1. Break up the fight
+2. Observe
+a1
+a2
