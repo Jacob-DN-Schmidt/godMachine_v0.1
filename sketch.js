@@ -85,8 +85,8 @@ let c2 = "";
 let pLean = 0;
 
 function preload() {
-  narratorf = loadFont("Nunito-VariableFont_wght.ttf");
-  dogf = loadFont("SpaceMono-Regular.ttf");
+  narratorf = loadFont("fonts/Nunito-VariableFont_wght.ttf");
+  dogf = loadFont("fonts/SpaceMono-Regular.ttf");
   manf = loadFont("fonts/Pangolin-Regular.ttf");
   wispf = loadFont("fonts/EduSABeginner-VariableFont_wght.ttf");
   surgf = loadFont("fonts/CrimsonText-Regular.ttf");
@@ -129,28 +129,28 @@ function preload() {
   whispers = loadSound("sounds/whisper.wav");
   winds = loadSound("sounds/wind.mp3");
   
-  op = loadStrings("op.txt");
+  op = loadStrings("resource/op.txt");
   
-  a = loadStrings("a.txt");
-  a1 = loadStrings("a1.txt");
-  a2 = loadStrings("a2.txt");
-  a11 = loadStrings("a11.txt");
-  a12 = loadStrings("a12.txt");
-  a21 = loadStrings("a21.txt");
-  a22 = loadStrings("a22.txt");
+  a = loadStrings("resource/a.txt");
+  a1 = loadStrings("resource/a1.txt");
+  a2 = loadStrings("resource/a2.txt");
+  a11 = loadStrings("resource/a11.txt");
+  a12 = loadStrings("resource/a12.txt");
+  a21 = loadStrings("resource/a21.txt");
+  a22 = loadStrings("resource/a22.txt");
   
-  b = loadStrings("b.txt");
-  b1 = loadStrings("b1.txt");
-  b2 = loadStrings("b2.txt");
-  b11 = loadStrings("b11.txt");
-  b12 = loadStrings("b12.txt");
-  b21 = loadStrings("b21.txt");
-  b22 = loadStrings("b22.txt");
+  b = loadStrings("resource/b.txt");
+  b1 = loadStrings("resource/b1.txt");
+  b2 = loadStrings("resource/b2.txt");
+  b11 = loadStrings("resource/b11.txt");
+  b12 = loadStrings("resource/b12.txt");
+  b21 = loadStrings("resource/b21.txt");
+  b22 = loadStrings("resource/b22.txt");
   
-  end = loadStrings("end.txt");
-  enda = loadStrings("enda.txt");
-  endb = loadStrings("endb.txt");
-  endc = loadStrings("endc.txt");
+  end = loadStrings("resource/end.txt");
+  enda = loadStrings("resource/enda.txt");
+  endb = loadStrings("resource/endb.txt");
+  endc = loadStrings("resource/endc.txt");
 }
 
 function setup() {
@@ -211,28 +211,6 @@ function keyPressed(){
     debounce = millis();
   }
   pressStartup();
-  /*while(currentTexts[currentLine].substring(0,1) === "/"){
-    if(currentTexts[currentLine] === "/p"){
-      cimage = pictureHelper(currentTexts[currentLine+1])
-      currentLine+=2;
-    }
-    if(currentTexts[currentLine] === "/s"){
-      currentLine+=2;
-    }
-    if(currentTexts[currentLine] === "/f"){
-      textFont(fontHelper(currentTexts[currentLine+1]));
-      currentLine+=2;
-    }
-    if(currentTexts[currentLine] === "/c"){
-      choice = true;
-      textFont(narratorf);
-      c1 = currentTexts[currentLine+1];
-      c2 = currentTexts[currentLine+2];
-      cname = "";
-      subt = "What will you do?";
-      currentLine+=3;
-    }
-  }*/
   if (keyCode === 32 && currentLine < currentTexts.length && !choice && !task){
     task = true;
     debounce = millis();
